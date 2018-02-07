@@ -1,0 +1,6 @@
+# The name of the Group chat to capture
+group_name: Group Chat
+# Legacy slack token (https://api.slack.com/custom-integrations/legacy-tokens)
+slack_token: xoxp-xxxxx-xxxxx-xxxxx-xxxxx
+# Name of the authenticated WhatsApp user, otherwise it will be replaced with You
+whatsapp_user_name: Sam Gaus
